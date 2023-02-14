@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MX6kkUlJ47keIalGkyiFFuUNeR5gjD+Ozk30746O8r0kM6asz/ZOfR8poIrJh+B6GqCt4uLLXgzHE9gu4T2ZSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Golch\\source\\repos\\KingRaamVoiceBot\\KingRaamVoiceBot\\KingRaamVoiceBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Golch\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Golch\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
